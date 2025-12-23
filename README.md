@@ -92,4 +92,4 @@ This project is private and proprietary.
 
 ## Contact
 
-Muhammad Zaigham Asif - [Your contact information]
+Muhammad Zaigham Asif - [zaighamasif06@gmail.com]
